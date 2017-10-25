@@ -1,2 +1,3 @@
 # mlkube.io
-Tombstone for mlkube.io
+
+mlkube.io has moved to [tensorflow/k8s]
